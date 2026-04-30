@@ -1,0 +1,34 @@
+# Local heavy assets
+assets_local/
+
+# Adobe project files
+*.aep
+*.aepx
+*.prproj
+*.prprojx
+*.psd
+*.psb
+
+# Video files
+*.mov
+*.mp4
+*.m4v
+*.avi
+*.mxf
+
+# Audio files
+*.wav
+*.aif
+*.aiff
+*.mp3
+
+# Premiere / After Effects cache
+Adobe Premiere Pro Video Previews/
+Adobe Premiere Pro Audio Previews/
+Media Cache/
+Media Cache Files/
+*.pek
+*.cfa
+
+# macOS
+.DS_Store
